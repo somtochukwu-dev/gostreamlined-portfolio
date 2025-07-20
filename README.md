@@ -41,3 +41,7 @@ Original assets have been removed for privacy.
 
 👨‍💻 Author
 Developed by Somtochukwu O
+
+🌐 Live Demo
+
+Check out the live site here: [GoStreamlined on Netlify](https://gostreamlined.netlify.app/)
